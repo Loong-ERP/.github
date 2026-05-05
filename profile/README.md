@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐉 Loong
-
-**Plataforma fintech para pequenos negócios — gestão financeira pelo WhatsApp, com IA.**
+<div align="center">
+  <img src="banner.png" alt="Loong" width="100%" />
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://djangoproject.com)
